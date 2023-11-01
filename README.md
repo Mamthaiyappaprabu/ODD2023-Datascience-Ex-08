@@ -1,28 +1,27 @@
-# Ex-08-Data-Visualization-
+# Ex-08-DATA VISUALIZATION :
 
-## AIM
+## AIM : 
 To Perform Data Visualization on the given dataset and save the data to a file. 
 
-# Explanation
+# EXPLANATION :
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
 
-# ALGORITHM
-### STEP 1
+# ALGORITHM :
+### STEP 1 :
 Read the given Data
-### STEP 2
+### STEP 2 :
 Clean the Data Set using Data Cleaning Process
-### STEP 3
+### STEP 3 :
 Apply Feature generation and selection techniques to all the features of the data set
-### STEP 4
+### STEP 4 :
 Apply data visualization techniques to identify the patterns of the data.
 
 
-# CODE
+# CODE :
+### NAME : MAMTHA I
+### REG NO : 212222230076
 ```
-NAME:Shabreena Vincent
-REGISTER NUMBER:212222230141
-
-#Import required libraries
+# Import required libraries
 
 import pandas as pd
 
@@ -167,18 +166,28 @@ plt.title('Sales vs. Profit based on Segment, Ship Mode and Region')
 plt.show()
 ```
 
-# OUPUT
+# OUTPUT :
+### SEGMENT-WISE SALES :
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/3fd50ba0-7640-4f6e-82e5-60d0f67b4a7f)
+### CITIES BY PROFIT :
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/d9adc176-4ecd-4077-970b-dcc1ed70f0fa)
+### SHIP MODE-WISE PROFIT :
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/423b351b-dca9-4cfd-bbe9-27dfaab2842e)
+### REGION-WISE SALES :
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/fb88de13-8ebf-447f-a0dd-b990f682dd54)
+### SALES VS PROFIT :
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/f026c081-3979-4e6d-98dd-8639e916221e)
+### SEGMENT-WISE SALES AND PROFIT :
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/465e9f62-422c-4e46-ba6a-f2a31417d7be)
+### TOP 10 CITIES BY SALES AND PROFIT :
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/216dea09-4170-4272-a0b3-ec307798788d)
+### SALES VS PROFIT BASED ON STATE :
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/32c9646f-1b00-436b-9b6d-cefce11458fb)
+### SALES VS PROFIT BASED ON SEGMENT AND SHIP MODE :
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/62c526d4-27d9-4af4-af9f-e2afce1a6a88)
+### SALES VS PROFIT BASED ON SEGMENT ,SHIP MODE AND REGION :
 ![image](https://github.com/harinidq/Ex-08-Data-Visualization-/assets/113497680/ced98db3-bb81-410b-8007-ea44955eba2e)
 
 
-# RESULT:
+# RESULT :
 Hence the data visualization method for the given dataset applied successfully.
